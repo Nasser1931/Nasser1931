@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nasser Albusaidi
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Paython and JavaScript
